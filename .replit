@@ -1,0 +1,2 @@
+language = "c"
+run = "clang-7 -pthread -lm -o ftm_test ftm_test.c ftm.c; ./ftm_test"
